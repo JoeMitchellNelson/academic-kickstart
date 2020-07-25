@@ -24,8 +24,9 @@ date_format = "Jan 2006"
   title = "EC 311: Intermediate Microeconomics"
   url = "files/EC311_Sp2019.pdf"
  # certificate_url = "https://www.coursera.org"
-  date_start = "2020-06-01"
-#  description = {{% staticref "files/EC311_Sp2019.pdf" %}}Course evaluations{{% /staticref %}}
+  date_start = "2020-03-01"
+  date_end = "2020-06-01"
+  description = "[Course evaluation summary](files/EC311_Sp2019.pdf)"
 
 [[item]]
   organization = "edX"
