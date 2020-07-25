@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Oregon"
   organization_url = ""
-  title = "EC 311: Intermediate Microeconomics ."
-  url = ""
+  title = "EC 311: Intermediate Microeconomics"
+  url = "files/EC311_Sp2019.pdf"
  # certificate_url = "https://www.coursera.org"
   date_start = "2020-06-01"
-  description = {{% staticref "files/EC311_Sp2019.pdf" %}}Course evaluations{{% /staticref %}}
+#  description = {{% staticref "files/EC311_Sp2019.pdf" %}}Course evaluations{{% /staticref %}}
 
 [[item]]
   organization = "edX"
