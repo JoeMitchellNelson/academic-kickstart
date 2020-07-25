@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
  # certificate_url = "https://www.coursera.org"
   date_start = "2020-06-01"
-  description = "{{% staticref "files/EC311_Sp2019.pdf" %}}Course evaluations{{% /staticref %}}"
+ # description = "{{% staticref "files/EC311_Sp2019.pdf" %}}Course evaluations{{% /staticref %}}"
 
 [[item]]
   organization = "edX"
