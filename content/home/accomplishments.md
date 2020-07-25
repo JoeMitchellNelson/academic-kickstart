@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = ""
+subtitle = "(Instructor of record)"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,26 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "University of Oregon"
+  organization_url = ""
+  title = "EC 201: Principles of Microeconomics"
+  url = ""
+ # certificate_url = "https://www.coursera.org"
+  date_start = "2020-06-01"
+  date_end = "2020-07-01"
+  description = "Course evaluations released in September"
+
+[[item]]
+  organization = "University of Oregon"
+  organization_url = ""
+  title = "EC 201: Principles of Microeconomics"
+  url = ""
+ # certificate_url = "https://www.coursera.org"
+  date_start = "2020-03-01"
+  date_end = "2020-06-01"
+  description = "[Student feedback](files/EC201_Sp2020.pdf)"
 
 [[item]]
   organization = "University of Oregon"
