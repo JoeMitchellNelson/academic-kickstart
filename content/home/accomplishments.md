@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Oregon"
   organization_url = ""
+  title = "EC 201: Principles of Microeconomics"
+  url = ""
+ # certificate_url = "https://www.coursera.org"
+  date_start = "2020-09-01"
+  date_end = "2020-12-01"
+  description = "[Course evaluation summary](files/EC201_F2019.pdf)"
+
+[[item]]
+  organization = "University of Oregon"
+  organization_url = ""
   title = "EC 311: Intermediate Microeconomics"
   url = ""
  # certificate_url = "https://www.coursera.org"
