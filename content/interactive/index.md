@@ -21,10 +21,10 @@ Contingent valuation methods attempt to value goods and services that are not tr
 
 I propose an alternative survey instrument in which subjects choose the levels of relevant attributes and receive feedback about the associated costs. After some experimentation, subjects can express their ideal mix of attributes, conditional on a behind-the-scenes cost constraint.
 
-Below is an example choice task. Subjects express their ideal pandemic policy using sliders that govern the level of restrictions on 10 businesses and activities. Moving any slider automatically updates the estimated deaths and cases in their community, and the estimated loss of income per household, due to job losses and a slowed local economy.
-
 <HR>
 
 <iframe style="padding-left:-100px; margin-left:-100px" height="800" width="140%" frameborder="no" src="https://joemitchellnelson.shinyapps.io/survey-instrument/"> </iframe>
 
-The functions mapping the restrictions to cost, cases and deaths is governed by 30 parameters, randomly generated for each subject. 
+<HR>
+
+Above is an example choice task. Subjects express their ideal pandemic policy using sliders that govern the level of restrictions on 10 businesses and activities. Moving any slider automatically updates the estimated deaths and cases in their community, and the estimated loss of income per household, due to job losses and a slowed local economy. (Try it!) The functions mapping the restrictions to cost, cases and deaths are governed by 30 parameters, randomly generated for each subject. (In the widget above, the parameters are redrawn every 24 hours.)
