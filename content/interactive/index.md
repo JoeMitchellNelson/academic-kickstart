@@ -28,3 +28,7 @@ I propose an alternative survey instrument in which subjects choose the levels o
 <HR>
 
 Above is an example choice task. Subjects express their ideal pandemic policy using sliders that govern the level of restrictions on 10 businesses and activities. Moving any slider automatically updates the estimated deaths and cases in their community, and the estimated loss of income per household, due to job losses and a slowed local economy. (Try it!) The functions mapping the restrictions to cost, cases and deaths are governed by 30 parameters, randomly generated for each subject. (In the widget above, the parameters are redrawn every 24 hours.)
+
+This survey instrument accommodates standard econometric techniques. When the levels of alternatives are discrete (as above) conditional logistic regression can identify the relevant parameters in subjects' indirect utility function, and heterogeneity analysis can be performed in the usual way. In a typical contingent valuation framework, however, subjects choose between a small number of alternatives. Here, the "alternative-space" is very large (there are 4^10 in the above example), so a random sample of unchosen alternatives in each choice task is selected by the researcher for use in estimation.
+
+When levels of alternatives are continuous, the relevant parameters can also be estimated via maximum likelihood estimation, where the likelihood function is derived from the first order conditions of the hypothesized utility function. (Proof coming soon.)
