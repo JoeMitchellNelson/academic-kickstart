@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "A novel stated preference instrument"  # A link title for your page.
+  url = "interactive/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
+
+[[main]]
   name = "Posts"
   url = "#posts"
   weight = 20
