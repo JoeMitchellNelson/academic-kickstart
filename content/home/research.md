@@ -50,6 +50,7 @@ subtitle = ""
 <i>Abstract</i>: A wealth of research has determined that project- and country-level characteristics matter for the success of foreign aid projects. This research explores how the cultural background of project leaders affects these outcomes. I use a relatively new measure of cultural proximity between countries, based on the genetic distance measure compiled by Spolaore and Wacziarg (2018) and data from the World Bank, to quantify how much cultural overlap likely exists between project leaders and the countries where these projects take place. To address possible endogeneity arising from assignment of managers to projects, I instrument for cultural proximity with the average cultural proximity of other available project leaders. Where institutions are strong, culturally similar project managers outperform those who are more culturally distant, but this relationship is not present in countries with poor institutions.</font>
 
 <br>
+<br>
 
 <strong>Willingness to pay for pandemic restrictions in Oregon</strong> (in progress)
 
