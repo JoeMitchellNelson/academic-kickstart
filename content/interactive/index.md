@@ -19,5 +19,5 @@ header:
 
 content/interactive/index.md
 
-<iframe height="800" width="150%" marginwidth="-25%" frameborder="no" src="https://joemitchellnelson.shinyapps.io/survey-instrument/"> </iframe>
+<iframe height="800" width="150%" marginwidth="-100" frameborder="no" src="https://joemitchellnelson.shinyapps.io/survey-instrument/"> </iframe>
 
