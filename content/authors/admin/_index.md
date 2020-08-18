@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Joe Mitchell-Nelson is a Ph.D. candidate in economics at the University of Oregon. {{% staticref "interactive/" %}}Check out this new stated preference method I'm developing.{{% /staticref %}}. test 3:13
+Joe Mitchell-Nelson is a Ph.D. candidate in economics at the University of Oregon. {{% staticref "interactive/" %}}Check out this new stated preference method I'm developing.{{% /staticref %}}.
 
