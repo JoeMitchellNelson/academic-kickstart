@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "Stata"
-  icon_pack = "fas"
+ # icon_pack = "fas"
   name = "Stata"
   description = "Conversational"  
   
