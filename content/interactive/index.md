@@ -23,5 +23,5 @@ I propose an alternative survey instrument in which subjects choose the levels o
 
 Below is an example choice task. Subjects express their ideal pandemic policy using sliders that govern the level of restrictions on 10 businesses and activities. Moving any slider automatically updates the estimated deaths and cases in their community, and the estimated loss of income per household, due to job losses and a slowed local economy.
 
-<iframe style="padding-left:-100px;" height="800" width="140%" frameborder="no" src="https://joemitchellnelson.shinyapps.io/survey-instrument/"> </iframe>
+<iframe style="padding-left:-100px; margin-left:-100px" height="800" width="140%" frameborder="no" src="https://joemitchellnelson.shinyapps.io/survey-instrument/"> </iframe>
 
