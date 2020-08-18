@@ -10,7 +10,7 @@ subtitle = "(Instructor of record)"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-#  date_format = "January 2006"
+  date_format = "January 2, 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
