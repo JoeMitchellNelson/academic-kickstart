@@ -1,5 +1,5 @@
 ---
-title: Open-ended contingent valuation
+title: Fluid CVM
 summary: An alternative to dichotomous choice survey instruments
 date: "2018-06-28T00:00:00Z"
 
@@ -27,7 +27,7 @@ Contingent valuation methods attempt to value goods and services that are not tr
 
 <HR>
 
-Above is an example choice task. <strong>Try it!</strong> Subjects express their ideal pandemic policy using sliders to control the level of restrictions on 10 businesses and activities. Moving any slider automatically updates the estimated deaths and cases in their community, and the estimated loss of income per household, due to job losses and a slowed local economy. The functions mapping the restrictions to cost, cases and deaths are governed by 30 parameters, randomly generated for each subject. (In the widget above, the parameters are redrawn every 24 hours.)
+Above is an example choice task. <strong>Try it!</strong> Subjects express their ideal pandemic policy using sliders to control the level of restrictions on 10 businesses and activities. Moving any slider automatically updates the estimated deaths and cases in their community, and the estimated loss of income per household, due to job losses and a slowed local economy. The functions mapping the restrictions to cost, cases and deaths are governed by 30 parameters, randomly generated for each subject. (In the widget above, the parameters are redrawn every 24 hours. At survey rollout, parameters will be randomly drawn for each choice task.)
 
 This survey instrument accommodates standard econometric techniques. When the levels of alternatives are discrete (as above) conditional logistic regression can identify the relevant parameters in subjects' indirect utility function, and heterogeneity analysis can be performed in the usual way. In a typical contingent valuation framework, however, subjects choose between a small number of alternatives. Here, the "alternative-space" is very large (there are 4^10 in the above example), so a random sample of unchosen alternatives in each choice task is selected by the researcher for use in estimation.
 
