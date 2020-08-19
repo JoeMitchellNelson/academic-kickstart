@@ -19,7 +19,7 @@ header:
 
 Contingent valuation methods attempt to value goods and services that are not traded in markets and for which no price information exists. A common technique involves presenting subjects with two or three alternatives, described in terms of several attributes, and allowing them to choose their most preferred alternative. However, many subjects find this survey method unfamiliar, and extensive introductory language is often necessary to prepare subjects for the choice tasks and to avoid scenario rejection. Additionally, this survey method rarely identifies the peak of a subject's utility maximization problem. 
 
-I propose an alternative survey instrument in which subjects choose the levels of relevant attributes and receive feedback about the associated costs. After some experimentation, subjects can express their ideal mix of attributes, conditional on a behind-the-scenes cost constraint.
+<strong>I propose an interactive survey instrument</strong> in which subjects choose the levels of relevant attributes and receive feedback about the associated costs. After some experimentation, subjects can express their ideal mix of attributes, conditional on a behind-the-scenes cost constraint.
 
 <HR>
 
@@ -27,7 +27,7 @@ I propose an alternative survey instrument in which subjects choose the levels o
 
 <HR>
 
-Above is an example choice task. Subjects express their ideal pandemic policy using sliders that govern the level of restrictions on 10 businesses and activities. Moving any slider automatically updates the estimated deaths and cases in their community, and the estimated loss of income per household, due to job losses and a slowed local economy. (Try it!) The functions mapping the restrictions to cost, cases and deaths are governed by 30 parameters, randomly generated for each subject. (In the widget above, the parameters are redrawn every 24 hours.)
+Above is an example choice task. <strong>Try it!</strong> Subjects express their ideal pandemic policy using sliders to control the level of restrictions on 10 businesses and activities. Moving any slider automatically updates the estimated deaths and cases in their community, and the estimated loss of income per household, due to job losses and a slowed local economy. The functions mapping the restrictions to cost, cases and deaths are governed by 30 parameters, randomly generated for each subject. (In the widget above, the parameters are redrawn every 24 hours.)
 
 This survey instrument accommodates standard econometric techniques. When the levels of alternatives are discrete (as above) conditional logistic regression can identify the relevant parameters in subjects' indirect utility function, and heterogeneity analysis can be performed in the usual way. In a typical contingent valuation framework, however, subjects choose between a small number of alternatives. Here, the "alternative-space" is very large (there are 4^10 in the above example), so a random sample of unchosen alternatives in each choice task is selected by the researcher for use in estimation.
 
