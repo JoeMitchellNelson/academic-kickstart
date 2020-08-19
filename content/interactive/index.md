@@ -32,3 +32,4 @@ Above is an example choice task. <strong>Try it!</strong> Subjects express their
 This survey instrument accommodates standard econometric techniques. When the levels of alternatives are discrete (as above) conditional logistic regression can identify the relevant parameters in subjects' indirect utility function, and heterogeneity analysis can be performed in the usual way. In a typical contingent valuation framework, however, subjects choose between a small number of alternatives. Here, the "alternative-space" is very large (there are 4^10 in the above example), so a random sample of unchosen alternatives in each choice task is selected by the researcher for use in estimation.
 
 When levels of alternatives are continuous, the relevant parameters can also be estimated via maximum likelihood estimation, where the likelihood function is derived from the first order conditions of the hypothesized utility function. (Proof coming soon.)
+

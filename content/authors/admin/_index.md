@@ -24,6 +24,10 @@ interests:
 - Stated preference research methods
 - Social preferences
 - Development economics
+- [Narrative data visualization](https://imgur.com/a/MZRydYx)
+- Nintendo 64
+- Ukulele
+- Early 2000s emo
 
 education:
   courses:
