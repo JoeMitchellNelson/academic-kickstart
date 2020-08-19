@@ -24,7 +24,7 @@ interests:
 - Stated preference research methods
 - Social preferences
 - Development economics
-- <a href="https://imgur.com/a/MZRydYx">Narrative data visualization</a>
+- <a href="https://www.joemitchellnelson.com/dataviz/">Narrative data visualization</a>
 - Nintendo 64
 - Ukulele
 - Early 2000s emo

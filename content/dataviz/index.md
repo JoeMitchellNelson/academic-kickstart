@@ -1,6 +1,6 @@
 ---
 title: Data visualizations
-summary: An alternative to dichotomous choice survey instruments
+summary: 
 date: "2018-06-28T00:00:00Z"
 
 output: html_document
@@ -19,6 +19,8 @@ header:
 Below are some "extra-curricular" data vizualizations I'm especially proud of.
 
 <HR>
+
+<br>
 
 <strong><center>I don't take responsibility at all</center></strong>
 
