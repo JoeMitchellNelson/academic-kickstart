@@ -16,7 +16,7 @@ header:
   caption: ""
   image: ""
 ---
-
+<html>
 <style>
 /* Tooltip container */
 .tooltip {
@@ -66,3 +66,4 @@ This survey instrument accommodates standard econometric techniques. When the le
 
 When levels of alternatives are continuous, the relevant parameters can also be estimated via maximum likelihood estimation, where the likelihood function is derived from the first order conditions of the hypothesized utility function. (Proof coming soon.)
 
+</html>
