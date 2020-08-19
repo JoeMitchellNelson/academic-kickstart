@@ -23,6 +23,8 @@ header:
   <span class="tooltiptext">Tooltip text</span>
 </div>
 
+<button type="button" data-toggle="modal" data-target="#myModal">Launch modal</button>
+
 Contingent valuation methods (CVM) attempt to value goods and services that are not traded in markets and for which no price information exists. A common technique involves presenting subjects with two or three alternatives, described in terms of several attributes, and allowing them to choose their most preferred alternative. However, many subjects find this survey method unfamiliar, and extensive introductory language is often necessary to prepare subjects for the choice tasks and to avoid scenario rejection. Additionally, this survey method rarely identifies the peak of a subject's utility maximization problem. 
 
 <strong>I propose an interactive survey instrument</strong> in which subjects choose the levels of relevant attributes and receive feedback about the associated costs. After some experimentation, subjects can express their ideal mix of attributes, conditional on a behind-the-scenes cost constraint.
