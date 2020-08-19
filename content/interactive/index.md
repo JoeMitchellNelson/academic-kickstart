@@ -17,7 +17,40 @@ header:
   image: ""
 ---
 
-Contingent valuation methods attempt to value goods and services that are not traded in markets and for which no price information exists. A common technique involves presenting subjects with two or three alternatives, described in terms of several attributes, and allowing them to choose their most preferred alternative. However, many subjects find this survey method unfamiliar, and extensive introductory language is often necessary to prepare subjects for the choice tasks and to avoid scenario rejection. Additionally, this survey method rarely identifies the peak of a subject's utility maximization problem. 
+<style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
+
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
+
+Contingent valuation methods (CVM) attempt to value goods and services that are not traded in markets and for which no price information exists. A common technique involves presenting subjects with two or three alternatives, described in terms of several attributes, and allowing them to choose their most preferred alternative. However, many subjects find this survey method unfamiliar, and extensive introductory language is often necessary to prepare subjects for the choice tasks and to avoid scenario rejection. Additionally, this survey method rarely identifies the peak of a subject's utility maximization problem. 
 
 <strong>I propose an interactive survey instrument</strong> in which subjects choose the levels of relevant attributes and receive feedback about the associated costs. After some experimentation, subjects can express their ideal mix of attributes, conditional on a behind-the-scenes cost constraint.
 
