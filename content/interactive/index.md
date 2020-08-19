@@ -17,7 +17,7 @@ header:
   image: ""
 ---
 
-<link rel="stylesheet" href="assets/custom/custom.scss">
+<link rel="stylesheet" href="custom.scss">
 
 <div class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
