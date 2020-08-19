@@ -4,8 +4,7 @@ summary: An alternative to dichotomous choice survey instruments
 date: "2018-06-28T00:00:00Z"
 
 runtime: shiny
-output: html_document:
-  css: assets/scss/custom.scss
+output: html_document
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -17,9 +16,10 @@ header:
   caption: ""
   image: ""
 ---
-#<head>
-#<link rel="stylesheet" href="assets/scss/custom.scss"></link>
-#</head>
+
+<head>
+<link rel="stylesheet" href="assets/scss/custom.scss"></link>
+</head>
 
 <div class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
