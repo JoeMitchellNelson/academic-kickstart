@@ -17,7 +17,7 @@ header:
   image: ""
 ---
 
-<a title="Test of hover">Test me</a>
+<a title="Test of hover" style="border-bottom: 1px dotted black;">Test me</a>
 
 Contingent valuation methods (CVM) attempt to value goods and services that are not traded in markets and for which no price information exists. A common technique involves presenting subjects with two or three alternatives, described in terms of several attributes, and allowing them to choose their most preferred alternative. However, many subjects find this survey method unfamiliar, and extensive introductory language is often necessary to prepare subjects for the choice tasks and to avoid scenario rejection. Additionally, this survey method rarely identifies the peak of a subject's utility maximization problem. 
 
