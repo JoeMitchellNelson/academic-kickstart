@@ -26,17 +26,14 @@ header:
 <div id="myModal" class="modal fade">
         <div class="modal-dialog modal-lg">
             <div class="modal-content">
-
                 <!-- Header -->
                 <div class="modal-header">
                     <h1>Header</h1>
                 </div>
-
                 <!-- Body -->
                 <div class="modal-body">
                     <p>Body</p>
                 </div>
-
                 <!-- Footer -->
                 <div class="modal-footer modal-footer--mine">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
