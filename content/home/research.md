@@ -52,7 +52,7 @@ subtitle = ""
 <br>
 <br>
 
-<strong>Willingness to pay for pandemic restrictions in Oregon</strong> (in progress)
+<strong>Willingness to bear the costs of pandemic restrictions</strong> (in progress)
 
 <br>
 
