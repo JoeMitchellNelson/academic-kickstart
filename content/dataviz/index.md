@@ -18,6 +18,12 @@ header:
 
 Below are some "extra-curricular" data vizualizations I'm especially proud of.
 
+<HR>
+
+<strong><center>I don't take responsibility at all</center></strong>
+
 ![](https://i.imgur.com/rZzmKnh.gif)
 
-This animation is a joint effort with Joanne Sherrod, produced in mid-April. It was featured in <a href="https://www.fastcompany.com/90492485/this-detailed-map-graph-traces-a-damning-trump-timeline-as-covid-19-spread-through-the-u-s">Fast Company</a>, tweeted by AFT president <a href="https://twitter.com/rweingarten/status/1252410845557997568?s=20">Randi Weingarten</a>, and shared on Facebook more than 7,000 times.
+This animation was a joint effort with Joanne Sherrod and was produced in mid-April. It was featured in <a href="https://www.fastcompany.com/90492485/this-detailed-map-graph-traces-a-damning-trump-timeline-as-covid-19-spread-through-the-u-s">Fast Company</a>, tweeted by AFT president <a href="https://twitter.com/rweingarten/status/1252410845557997568?s=20">Randi Weingarten</a>, and shared on Facebook more than 7,000 times. You can find the code on my <a href="https://github.com/JoeMitchellNelson/Covid-19-map">Github</a>.
+
+<HR>
