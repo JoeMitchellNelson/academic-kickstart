@@ -25,7 +25,7 @@ header:
 }
 
 .tooltip .tooltiptext {
-  visibility: hidden;
+  visibility: visible;
   width: 120px;
   background-color: black;
   color: #fff;
