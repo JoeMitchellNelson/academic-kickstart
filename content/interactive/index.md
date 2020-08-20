@@ -28,7 +28,7 @@ u {
 
 u span {
 visibility: hidden;
-  width: 200px;
+  width: 350px;
   background-color: #795548;
   color: #fff;
   text-align: left;
