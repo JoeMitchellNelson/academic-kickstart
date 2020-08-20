@@ -33,6 +33,7 @@ visibility: hidden;
   color: #fff;
   text-align: left;
   text-color: white;
+  font-size: 15px;
   border-radius: 6px;
   padding: 10px 10px 10px 10px;
   
