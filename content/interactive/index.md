@@ -3,7 +3,7 @@ title: Fluid stated preference
 summary: An alternative to dichotomous choice survey instruments
 date: "2018-06-28T00:00:00Z"
 
-runtime: shiny
+#runtime: shiny
 output: html_document
 
 reading_time: false  # Show estimated reading time?
@@ -17,14 +17,44 @@ header:
   image: ""
 ---
 
-<a data-toggle="tooltip" title="Test of hover" style="border-bottom: 1px dotted black;">Test me</a>
+<style>
 
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
-</div>
+u {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  text-decoration: none;
+}
+
+u span {
+visibility: hidden;
+  width: 200px;
+  background-color: #795548;
+  color: #fff;
+  text-align: left;
+  text-color: white;
+  border-radius: 6px;
+  padding: 10px 10px 10px 10px;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+  
+  opacity: 0;
+  transition: opacity 1s;
+  }
+
+u:hover span {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
 
 
-Stated preference methods attempt to value goods and services that are not traded in markets and for which no price information exists. A common technique involves presenting subjects with two or three alternatives, described in terms of several attributes, and allowing them to choose their most preferred alternative. However, many subjects find this survey method unfamiliar, and extensive introductory language is often necessary to prepare subjects for the choice tasks and to avoid scenario rejection. Additionally, this survey method rarely identifies the peak of a subject's utility maximization problem. 
+Stated preference methods attempt to value goods and services that are not traded in markets and for which no price information exists. A common technique involves presenting subjects with <u>two or three alternatives<span>Typically one alternative is "the status quo" or the option to forgo all costs and benefits associated with the good or service being valued.</span></u>, described in terms of several attributes, and allowing them to choose their most preferred alternative. However, many subjects find this survey method unfamiliar, and extensive introductory language is often necessary to prepare subjects for the choice tasks and to avoid scenario rejection. Additionally, this survey method rarely identifies the peak of a subject's utility maximization problem. 
 
 <strong>I propose an interactive survey instrument</strong> in which subjects choose the levels of relevant attributes and receive feedback about the associated costs. After some experimentation, subjects can express their ideal mix of attributes, conditional on a behind-the-scenes cost constraint.
 
