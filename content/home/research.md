@@ -53,11 +53,15 @@ subtitle = ""
 <br>
 
 <strong>Willingness to bear the costs of pandemic restrictions</strong> (in progress)
+<font size="3.5">
 We develop and field a stated preference survey about pandemic restrictions to a representative sample of Oregonians. Our results will allow us to identify the tradeoffs Oregonians are willing to make between, on the one hand, the economic burden and inconvenience of pandemic restrictions and, on the other, the avoided illnesses and deaths those restrictions are likely to achieve.
+</font>
 
 <br>
 
 <strong>Differential attention to attributes in stated preference research: evidence from Mouselab</strong> (in progress)
+<font size="3.5">
 In typical stated preference surveys, respondents are required to make cognitively taxing choices among a set of alternatives. We build a model of attention allocation that assumes subjects gain utility from accurately representing their preferences in incentive compatible surveys but that subject attention is finite and costly. We validate our model using data from mouse-tracking software, collected while subjects work through a stated preference survey about health outcomes.
+</font>
 
 
