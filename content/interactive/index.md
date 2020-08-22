@@ -54,7 +54,7 @@ u:hover span {
 }
 </style>
 
-Below is an example choice task. <strong>Try it!</strong>
+Below is an example choice task. <strong>Try it!</strong> (Note: it's not yet optimized for mobile browers.)
 
 <iframe style="padding-left:-100px; margin-left:-100px" height="800" width="140%" frameborder="no" src="https://joemitchellnelson.shinyapps.io/survey-instrument/"> </iframe>
 
