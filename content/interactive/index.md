@@ -64,7 +64,7 @@ u:hover span {
 
 Below is an example choice task. <strong>Try it!</strong> (Note: it's not yet optimized for mobile browers.)
 
-<iframe style="padding-left:-100px; margin-left:-100px" height="800" width="140%" frameborder="no" src="https://joemitchellnelson.shinyapps.io/survey-instrument/"> </iframe>
+<iframe style="padding-left:-100px; margin-left:-100px" height="820" width="140%" frameborder="no" src="https://joemitchellnelson.shinyapps.io/survey-instrument/"> </iframe>
 
 Stated preference methods attempt to value goods and services that are not traded in markets and for which no price information exists. A common technique involves presenting subjects with <u>two or three alternatives<span>Typically one alternative is "the status quo" or the option to forgo all costs and benefits associated with the good or service being valued.</span></u>, described in terms of several <u>attributes<span>For example, a subject may be given a choice among three alternatives: <i>car A</i>, <i>car B</i>, or <i>no car</i> (the status quo alternative). Each alternative might then be described in terms of the attributes horsepower, fuel economy, and cost. The <i>no car</i> alternative comes with no horsepower or fuel economy, but also no cost. Cars A and B are assumed not to differ except in their described attributes.</span></u>, and allowing them to choose their most preferred alternative. However, many subjects find this survey method unfamiliar, and extensive introductory language is often necessary to prepare subjects for the choice tasks and to avoid scenario rejection. Additionally, this survey method rarely identifies the peak of a subject's utility maximization problem.
 
