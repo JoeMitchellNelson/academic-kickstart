@@ -53,7 +53,7 @@ u:hover span {
   opacity: 1;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   iframe {
     padding-left:0px !important; 
     margin-left:0px !important;
