@@ -66,4 +66,10 @@ We develop and field a stated preference survey about pandemic restrictions to a
 In typical stated preference surveys, respondents are required to make cognitively taxing choices among a set of alternatives. We build a model of attention allocation that assumes subjects gain utility from accurately representing their preferences in incentive compatible surveys but that subject attention is finite and costly. We validate our model using data from mouse-tracking software, collected while subjects work through a stated preference survey about health outcomes.
 </font>
 
+<br>
+<strong>Temperature and propensity to report crimes:  Evidence from Denver and Los Angeles</strong> (in progress)
+<font size="3.5">
+A body of robust interdisciplinary research finds that aggression and violence increase on hot days. One prominent stream of this literature leverages the relationship between the number of reported crimes among a population and plausibly exogenous variation in temperature. An identifying assumption underlying this body of research is that crime reporting rates do not vary systematically with temperature. I present evidence that this assumption is unjustified and that consequently the relationship between heat and crime is likely to be overstated. Using incident-level crime data from Denver and Los Angeles and daily weather data from the National Oceanic and Atmospheric Association (NOAA), I find that crimes are reported more quickly during periods of hot weather. I also present a model demonstrating that, under mild assumptions, delays in crime reporting are likely to be associated with lower reporting rates. Based on data from the Demographic and Health Surveys (DHS), I also present evidence that heat affects the formation of moral judgments, suggesting a possible mechanism.
+</font>
+
 
