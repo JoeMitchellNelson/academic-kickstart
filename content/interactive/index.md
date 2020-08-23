@@ -52,6 +52,14 @@ u:hover span {
   visibility: visible;
   opacity: 1;
 }
+
+@media screen and (max-width: 500px) {
+  iframe {
+    padding-left:0px !important; 
+    margin-left:0px !important;
+    width: 100%;
+  }
+}
 </style>
 
 Below is an example choice task. <strong>Try it!</strong> (Note: it's not yet optimized for mobile browers.)
