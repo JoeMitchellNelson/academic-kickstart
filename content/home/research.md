@@ -55,7 +55,7 @@ subtitle = ""
 <strong>Willingness to bear the costs of pandemic restrictions</strong> (with Trudy Ann Cameron, in progress)
 <br>
 <font size="3.5">
-We develop and field a stated preference survey about pandemic restrictions to a representative sample of Oregonians. Our results will allow us to identify the tradeoffs Oregonians are willing to make between, on the one hand, the economic burden and inconvenience of pandemic restrictions and, on the other, the avoided illnesses and deaths those restrictions are likely to achieve.
+We develop and field a stated preference survey about pandemic restrictions to a representative sample of Oregonians. Our results (coming soon!) will allow us to identify the tradeoffs Oregonians are willing to make between, on the one hand, the economic burden and inconvenience of pandemic restrictions and, on the other, the avoided illnesses and deaths those restrictions are likely to achieve. Rich demographic data from non-respondents allow us to correct for non-response bias.
 </font>
 
 <br>
@@ -68,8 +68,9 @@ In typical stated preference surveys, respondents are required to make cognitive
 
 <br>
 <strong>Temperature and propensity to report crimes:  Evidence from Denver and Los Angeles</strong> (in progress)
+<br>
 <font size="3.5">
-A body of robust interdisciplinary research finds that aggression and violence increase on hot days. One prominent stream of this literature leverages the relationship between the number of reported crimes among a population and plausibly exogenous variation in temperature. An identifying assumption underlying this body of research is that crime reporting rates do not vary systematically with temperature. I present evidence that this assumption is unjustified and that consequently the relationship between heat and crime is likely to be overstated. Using incident-level crime data from Denver and Los Angeles and daily weather data from the National Oceanic and Atmospheric Association (NOAA), I find that crimes are reported more quickly during periods of hot weather. I also present a model demonstrating that, under mild assumptions, delays in crime reporting are likely to be associated with lower reporting rates. Based on data from the Demographic and Health Surveys (DHS), I also present evidence that heat affects the formation of moral judgments, suggesting a possible mechanism.
+A body of robust interdisciplinary research finds that aggression and violence increase on hot days. One prominent stream of this literature leverages the relationship between the number of reported crimes among a population and plausibly exogenous variation in temperature. An identifying assumption underlying this body of research is that crime reporting rates do not vary systematically with temperature. I present evidence that this assumption is unjustified and that consequently the relationship between heat and crime is likely to be overstated. Using survival analysis of incident-level crime data from Denver and Los Angeles and daily weather data from the National Oceanic and Atmospheric Association (NOAA), I find that crimes are reported more quickly during periods of hot weather. I also present a model demonstrating that, given mild assumptions, delays in crime reporting are associated with lower reporting rates. Based on data from the Demographic and Health Surveys (DHS), I present evidence that heat affects the formation of moral judgments, suggesting a possible mechanism.
 </font>
 
 
