@@ -72,5 +72,5 @@ user_groups:
 - Visitors
 ---
 
-I'm is a Ph.D. candidate in economics at the University of Oregon on the job market 2021. {{% staticref "interactive/" %}}Check out this new* stated preference method I'm developing.{{% /staticref %}}
+I'm a Ph.D. candidate in economics at the University of Oregon, on the job market 2021. {{% staticref "interactive/" %}}Check out this new* stated preference method I'm developing.{{% /staticref %}}
 
