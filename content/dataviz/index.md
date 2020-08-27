@@ -20,7 +20,7 @@ Below are some "extra-curricular" data vizualizations I'm especially proud of.
 
 <HR>
 
-Some recent studies have found significant effects of COVID-19 lockdowns on air quality, especially in cities like <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189867/">Delhi</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0048969720326024">Rio de Janeiro</a>, <a href="https://www.thelancet.com/pdfs/journals/lanplh/PIIS2542-5196(20)30107-8.pdf">Wuhan</a>. I was curious to see if similar effects were apparent in urban areas in the U.S., so I plotted 2020's PM<sub>2.5</sub> data for New York City, compared to recent years. The code and data to produce this plot are on my <a href="https://github.com/JoeMitchellNelson/pm25_covid">Github</a>.
+Some recent studies have found significant effects of COVID-19 lockdowns on air quality, especially in cities like <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189867/">Delhi</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0048969720326024">Rio de Janeiro</a>, and <a href="https://www.thelancet.com/pdfs/journals/lanplh/PIIS2542-5196(20)30107-8.pdf">Wuhan</a>. I was curious to see if similar effects were apparent in urban areas in the U.S., so I plotted 2020's PM<sub>2.5</sub> data for New York City, compared to recent years. The code and data to produce this plot are on my <a href="https://github.com/JoeMitchellNelson/pm25_covid">Github</a>.
 
 
 ![](https://raw.githubusercontent.com/JoeMitchellNelson/pm25_covid/master/pm25_plot.png)
