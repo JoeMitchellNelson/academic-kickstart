@@ -24,7 +24,7 @@ interests:
 - Stated preference research methods
 - Social preferences
 - Development economics
-- Narrative <a href="https://www.joemitchellnelson.com/dataviz/">data visualization</a>
+- <a href="https://www.joemitchellnelson.com/dataviz/">Visualizing data</a>
 - Early 2000s emo
 
 education:
