@@ -32,6 +32,9 @@ education:
   - course: PhD in Economics
     institution: University of Oregon
     year: 2021 (expected)
+  - course: MS in Economics
+    institution: University of Oregon
+    year: 2018
   - course: BS in Economics
     institution: Portland State University
     year: 2016
