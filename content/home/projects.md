@@ -57,7 +57,7 @@ I originally made the app below to help my wife think about where we might move 
 
 <HR>
 
-I handled technical implementation to produce the animation below, in a joint effort with <a href="https://www.linkedin.com/in/jo-sherrod-50975014/">Joanne Sherrod</a>. It was featured in <a href="https://www.fastcompany.com/90492485/this-detailed-map-graph-traces-a-damning-trump-timeline-as-covid-19-spread-through-the-u-s">Fast Company</a>, tweeted by AFT president (and Secretary of Education <ahref="https://www.usnews.com/news/politics/articles/2020-11-16/education-secretary-pick-from-betsy-devos-to-union-boss">short-lister</a>) <a href="https://twitter.com/rweingarten/status/1252410845557997568?s=20">Randi Weingarten</a>, and shared on Facebook more than 7,000 times. You can find the code on my <a href="https://github.com/JoeMitchellNelson/Covid-19-map">Github</a>.
+I handled technical implementation to produce the animation below, in a joint effort with <a href="https://www.linkedin.com/in/jo-sherrod-50975014/">Joanne Sherrod</a>. It was featured in <a href="https://www.fastcompany.com/90492485/this-detailed-map-graph-traces-a-damning-trump-timeline-as-covid-19-spread-through-the-u-s">Fast Company</a>, tweeted by AFT president (and Secretary of Education <a href="https://www.usnews.com/news/politics/articles/2020-11-16/education-secretary-pick-from-betsy-devos-to-union-boss">short-lister</a>) <a href="https://twitter.com/rweingarten/status/1252410845557997568?s=20">Randi Weingarten</a>, and shared on Facebook more than 7,000 times. You can find the code on my <a href="https://github.com/JoeMitchellNelson/Covid-19-map">Github</a>.
 <br>
 
 
