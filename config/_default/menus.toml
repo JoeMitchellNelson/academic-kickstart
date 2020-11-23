@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Data Viz"
-  url = "www.joemitchellnelson.com/dataviz"
+  url = "dataviz"
   weight = 25
 
 #[[main]]
