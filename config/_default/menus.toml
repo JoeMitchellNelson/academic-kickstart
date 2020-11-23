@@ -18,6 +18,11 @@
   url = "#accomplishments"
   weight = 30
 
+[[main]]
+  name = "Data Viz"
+  url = "#projects"
+  weight = 25
+
 #[[main]]
 #  name = "Publications"
 #  url = "#featured"
