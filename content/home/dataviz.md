@@ -44,7 +44,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<table style="width:100%; border: 0px solid black;" >
+<table style="width:100%; border: 0px solid black;background-color:#d8c6c0" >
   <tr>
     <td width="200"><a href="https://www.joemitchellnelson.com/dataviz"><img src="https://www.joemitchellnelson.com/img/websitethumbnail1.png" width="200"></a></td>
     <td style="text-align:left;vertical-align:top;border: 0px solid black; padding:10px;"><strong>Where do you want to live?</strong><br>An app for those who are considering relocating within the US</td>
