@@ -5,8 +5,8 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
 title = "Data Viz"
 subtitle = ""
@@ -50,11 +50,15 @@ subtitle = ""
     <th></th>
   </tr>
   <tr>
-    <td><img src="https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png"></td>
-    <td><center>Description of cat<center></td>
+    <td><img src="https://www.joemitchellnelson.com/img/websitethumbnail1.png" width="200"></td>
+    <td>Description1</td>
   </tr>
   <tr>
-    <td><img src="https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png"></td>
-    <td>$80</td>
+    <td><img src="https://www.joemitchellnelson.com/img/websitethumbnail2.png" width="200"></td>
+    <td>Description2</td>
+  </tr>
+    <tr>
+    <td><img src="https://www.joemitchellnelson.com/img/websitethumbnail3.png" width="200"></td>
+    <td>Description3</td>
   </tr>
 </table>
