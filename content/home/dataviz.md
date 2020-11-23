@@ -38,7 +38,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "background-color:#d8c6c0;"
  
  # CSS class.
  css_class = ""
