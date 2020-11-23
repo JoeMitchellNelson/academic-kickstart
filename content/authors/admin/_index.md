@@ -22,9 +22,9 @@ bio: My research interests include economics and whatever is the opposite of eco
 
 interests:
 - Stated preference research methods
-- Social preferences
+- The role of culture in economics
 - Development economics
-- <a href="https://www.joemitchellnelson.com/dataviz/">Visualizing data</a>
+- Visualizing data
 - Early 2000s emo
 
 education:
