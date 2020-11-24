@@ -46,15 +46,15 @@ subtitle = ""
 
 <table style="width:100%; border: 1px solid #d8c6c0;background:#d8c6c0 !important;" >
   <tr style="background-color:#d8c6c0 !Important;">
-    <td width="200" style="background-color:#d8c6c0 !Important;"><a href="https://www.joemitchellnelson.com/dataviz"><img src="https://www.joemitchellnelson.com/img/websitethumbnail1.png" width="200"></a></td>
+    <td width="200" style="background-color:#d8c6c0 !Important;"><a href="https://www.joemitchellnelson.com/dataviz/#live"><img src="https://www.joemitchellnelson.com/img/websitethumbnail1.png" width="200"></a></td>
     <td style="text-align:left;vertical-align:top;border: 0px solid black; padding:10px;background-color:#d8c6c0 !Important;"><strong>Where do you want to live?</strong><br>An app for those who are considering relocating within the US</td>
   </tr>
   <tr style="background-color:#d8c6c0 !Important;">
-    <td width="200" style="background-color:#d8c6c0 !Important;"><a href="https://www.joemitchellnelson.com/dataviz"><img src="https://www.joemitchellnelson.com/img/websitethumbnail2.png" width="200"></a></td>
+    <td width="200" style="background-color:#d8c6c0 !Important;"><a href="https://www.joemitchellnelson.com/dataviz/#covid"><img src="https://www.joemitchellnelson.com/img/websitethumbnail2.png" width="200"></a></td>
     <td style="text-align:left;vertical-align:top;border: 0px solid black; padding:10px;background-color:#d8c6c0 !Important;"><strong>"I don't take any responsibility at all"</strong><br>An animated map of the early spread of Covid-19 that went viral on social media</td>
   </tr>
     <tr style="background-color:#d8c6c0 !Important;">
-    <td width="200" style="background-color:#d8c6c0 !Important;"><a href="https://www.joemitchellnelson.com/dataviz"><img src="https://www.joemitchellnelson.com/img/websitethumbnail3.png" width="200"></a></td>
+    <td width="200" style="background-color:#d8c6c0 !Important;"><a href="https://www.joemitchellnelson.com/dataviz/#air"><img src="https://www.joemitchellnelson.com/img/websitethumbnail3.png" width="200"></a></td>
     <td style="text-align:left;vertical-align:top;border: 0px solid black; padding:10px;background-color:#d8c6c0 !Important;"><strong>Urban air quality and Covid-19</strong><br>A look at the effect of the Covid-19 lockdown on air quality in New York City</td>
   </tr>
 </table>
